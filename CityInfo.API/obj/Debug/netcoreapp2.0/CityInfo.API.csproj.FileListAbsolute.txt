@@ -1,0 +1,24 @@
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.deps.json
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.json
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.dev.json
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.dll
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.pdb
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfoInputs.cache
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.dll
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.pdb
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.xml
+C:\Users\CShum\Documents\Visual Studio 2017\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csprojResolveAssemblyReference.cache
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.xml
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.deps.json
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.json
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.dev.json
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.dll
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.pdb
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csprojResolveAssemblyReference.cache
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfoInputs.cache
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.dll
+C:\Users\CShum\Documents\aspnetcore-swagger\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.pdb

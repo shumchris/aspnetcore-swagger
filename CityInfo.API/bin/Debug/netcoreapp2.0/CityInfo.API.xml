@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CityInfo.API</name>
+    </assembly>
+    <members>
+        <member name="M:CityInfo.API.Controllers.CitiesController.GetCities">
+            <summary>
+            Return a list of all the cities and their points of interests.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CityInfo.API.Controllers.CitiesController.GetCity(System.Int32)">
+            <summary>
+            Returns a single city and the points of interests.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CityInfo.API.Controllers.PointsOfInterestController">
+            <summary>
+            Point of Interest Service Methods
+            </summary>
+        </member>
+        <member name="M:CityInfo.API.Controllers.PointsOfInterestController.GetPointsOfInterest(System.Int32)">
+            <summary>
+            Returns all points of interests for a given city Id
+            </summary>
+            <param name="cityId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CityInfo.API.Controllers.PointsOfInterestController.GetPointOfInterest(System.Int32,System.Int32)">
+            <summary>
+            Returns a point of interest by city and pointofinterest id
+            </summary>
+            <param name="cityId"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CityInfo.API.Controllers.PointsOfInterestController.CreatePointOfInterest(System.Int32,CityInfo.API.Models.PointOfInterestForCreationDto)">
+            <summary>
+            Create new point of interest for the given city id.
+            </summary>
+            <param name="cityId"></param>
+            <param name="pointOfInterest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CityInfo.API.Controllers.PointsOfInterestController.UpdatePointOfInterest(System.Int32,System.Int32,CityInfo.API.Models.PointOfInterestForUpdateDto)">
+            <summary>
+            Update the point of interest
+            </summary>
+            <param name="cityId">City</param>
+            <param name="id"></param>
+            <param name="pointOfInterest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CityInfo.API.Controllers.PointsOfInterestController.PartiallyUpdatePointOfInterest(System.Int32,System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{CityInfo.API.Models.PointOfInterestForUpdateDto})">
+            <summary>
+            Partially updates the point of interest using the JSON patch standard http://jsonpatch.com/
+            </summary>
+            <param name="cityId"></param>
+            <param name="id"></param>
+            <param name="patchDoc"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest(System.Int32,System.Int32)">
+            <summary>
+            Deletes a point of interest from the specified city
+            </summary>
+            <param name="cityId"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
